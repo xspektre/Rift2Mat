@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\ids-lab\rift2mat\rift2mat\source.cpp(69): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+f:\ids-lab\rift2mat\rift2mat\source.cpp(70): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+f:\ids-lab\rift2mat\rift2mat\source.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+  Rift2Mat.vcxproj -> F:\IDS-LAB\Rift2Mat\x64\Debug\Rift2Mat.exe
+  Rift2Mat.vcxproj -> F:\IDS-LAB\Rift2Mat\x64\Debug\Rift2Mat.pdb (Full PDB)
